@@ -10,3 +10,10 @@ Example creating dinossaurs mock api
 #### Then in vscode terminal console, go to the pom.xml folder and run:
 
 " mvn test "
+
+#### The test report will be into the target folder:
+- Cucumber report: 
+   - /target/cucumber-html-reports/report-feature_dino-dinosaur-dinosaur-feature.html
+ 
+- Karate Report: 
+  - /target/surefire-reports/
